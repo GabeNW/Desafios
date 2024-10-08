@@ -44,6 +44,9 @@ public class LinkedList {
         }
         System.out.println("");
     }
+    public void printList() {
+        System.out.println(ninjas);
+    }
     public void sortByName() {
         ninjas.sort((n1, n2) -> n1.getNome().compareTo(n2.getNome()));
     }
@@ -60,8 +63,7 @@ public class LinkedList {
                 return ninjas.get(i).toString();
             }
         }
-        System.out.println("Ninja não encontrado");
-        return null;
+        return "Ninja não encontrado";
     }
 
 

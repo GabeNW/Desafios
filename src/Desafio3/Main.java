@@ -10,6 +10,7 @@ public class Main {
         int uchihaCount = 0;
         int ninjaSize = 10;
         int uchihaSize = 10;
+
         Ninja ninjas[] = new Ninja[ninjaSize];
         Uchiha uchihas[] = new Uchiha[uchihaSize];
         while(!sair) {

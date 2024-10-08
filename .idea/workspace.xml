@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d701bfa4-c8d7-4e4b-9596-3b1c91f7bc5a" name="Changes" comment="" />
+    <list default="true" id="d701bfa4-c8d7-4e4b-9596-3b1c91f7bc5a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio6/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio6/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafio6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafio6/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

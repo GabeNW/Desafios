@@ -22,7 +22,6 @@ public class Main {
         lista.add(new Ninja("Hidan", 91, "Akatsuki"), 2);
         lista.print();
         System.out.println(lista.findByName("Kakuzu"));
-
     }
 
 }
